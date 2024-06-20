@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 5. Run the Flask application.
 
-```python
+```
 python app.python
 ```
 
